@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <h1>XS Millionaires 2016</h1>
     <p>Ladies Night!!!</p>
-    <p>Baricho Road</p>
+   <app-parent></app-parent>
   `,
   styleUrls: ['./app.component.css']
 })
